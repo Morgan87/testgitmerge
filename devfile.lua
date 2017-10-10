@@ -6,3 +6,7 @@ local function devfunc1()
 
 
 end
+
+local function devfunc2()
+
+end
