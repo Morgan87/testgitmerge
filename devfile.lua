@@ -6,7 +6,8 @@
 #include <unistd.h>
 
 void base_func() {
-	int *p;
+	int a = 1;
+	int *p = &a;
 	printf("this is a crash %d\n", *p);
 }
 
