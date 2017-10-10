@@ -11,6 +11,10 @@ void dev_func_1() {
 	printf("dev func 1\n");
 }
 
+void dev_func_2()
+{
+	
+}
 int main() {
 	return 0;
 }
