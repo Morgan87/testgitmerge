@@ -10,3 +10,7 @@ end
 local function devfunc2()
 
 end
+
+local function devfun3()
+
+end
