@@ -15,6 +15,12 @@ void dev_func_2()
 {
 	
 }
+
+void dev_func_3()
+{
+
+}
+
 int main() {
 	return 0;
 }
