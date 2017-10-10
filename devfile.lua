@@ -4,7 +4,7 @@
 void base_func() {
 	int a = 1;
 	int *p = &a;
-	printf("this is a crash %d\n", *p);
+	printf("this is a crash %d changedev1\n", *p);
 }
 
 void dev_func_1() {
