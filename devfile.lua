@@ -3,7 +3,7 @@
 -- Date: 2017-10-10 10:26:06
 --
 local function devfunc1()
-
+	local a = 5
 
 end
 
