@@ -20,5 +20,5 @@ local function devfun4()
 end
 
 local function devfun5()
-
+	local dev5 = 5
 end
